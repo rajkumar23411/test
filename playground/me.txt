@@ -1,5 +1,0 @@
-{{#user}}
-Name: Rajkumar Kalita
-Skills: HTML, CSS, JS, React.js, Redux, Tailwind CSS, mongoDB. express.js, node.js, MVC etc.
-Email: rajkumar.kalita@gmail.com
-{{/user}}
